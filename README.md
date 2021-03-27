@@ -2,12 +2,6 @@
 
 <p>The Consumer Prices Division (CPD) is undergoing a transition to utilize new data sources to enable better calculation of the Consumer Price Index (CPI). This involves interpreting unstructured text data sources, such as a product description provided by a retailer, to identifying where products fit in the CPI taxonomy. The Data Science team at CPD are responsible for developing supervised and unsupervised methods to do this, and is looking for qualified candidates to support this work.</p>
 
-The application of analytical and statistical concepts, theories and techniques;Thinking Things Through.<br><br>
-<b>How to submit your assignment</b><br>
-
-<p>Complete the assignment in either R or Python, and include good documention, explaining how you worked through each question and assumptions or tests you made. The format how you complete the documentation is up to you -- for instance in a separate markdown file, a jupyter notebook together with the code, etc.</p>
-
-<b>Please note: due to possible firewall issues in receiving emails, make sure to convert your files to either .txt if they are code, or .html if they are jupyter notebooks, and provide instructions on how to convert them back to the original format.</b>
 
 <h2><b>Question 1</h2></b>
 
